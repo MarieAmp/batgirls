@@ -1,9 +1,11 @@
 html, body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h1 {
 color: darkviolet;
+text-align: center;
+background-color: black;
 }
 
 .container {
@@ -22,7 +24,6 @@ li {
 }
 
 p {
-    width: 30%;
     text-align: justify;
 }
 .presentation{
