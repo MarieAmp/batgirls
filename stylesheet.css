@@ -2,15 +2,27 @@ html, body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h1 {
+    
+}
+
 .container {
 flex-direction: column;
 flex-wrap: wrap;
 }
 
-ul.li {
-    width: 40%;
+ul {
+    
 }
 
-ul.p {
+li {
     width: 40%;
+    font-weight: 700;
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+p {
+    width: 30%;
+    text-align: justify;
 }
