@@ -1,0 +1,16 @@
+html, body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+flex-direction: column;
+flex-wrap: wrap;
+}
+
+ul.li {
+    width: 40%;
+}
+
+ul.p {
+    width: 40%;
+}
