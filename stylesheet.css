@@ -7,8 +7,10 @@ color: darkviolet;
 }
 
 .container {
-flex-direction: column;
-flex-wrap: wrap;
+display:flex;
+flex-direction: row;
+justify-content: space-evenly;
+
 }
 
 
@@ -22,5 +24,8 @@ li {
 p {
     width: 30%;
     text-align: justify;
+}
+.presentation{
+    width:40%;
 }
 
