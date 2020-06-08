@@ -7,9 +7,9 @@ h1 {
 }
 
 .container {
-flex-direction: column;
-flex-wrap: wrap;
-align-items: center;
+flex-direction: row;
+
+justify-content: space-evenly;
 
 }
 
@@ -27,4 +27,7 @@ li {
 p {
     width: 30%;
     text-align: justify;
+}
+.presentation{
+    width:40%;
 }
