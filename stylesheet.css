@@ -3,8 +3,10 @@ html, body {
 }
 
 h1 {
-    
+color: darkviolet;
 }
+
+
 
 .container {
 flex-direction: row;
@@ -28,6 +30,10 @@ p {
     width: 30%;
     text-align: justify;
 }
+<<<<<<< HEAD
 .presentation{
     width:40%;
 }
+=======
+
+>>>>>>> 928926189b8adc6bcee92a85638d966d520a5326
