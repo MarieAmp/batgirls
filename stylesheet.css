@@ -1,5 +1,7 @@
 html, body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-image: url(https://i.pinimg.com/originals/ed/8a/c0/ed8ac0c600386672d54b1b4f64001860.jpg);
 }
 
 h1 {
@@ -21,6 +23,7 @@ li {
     font-weight: 700;
     color: blueviolet;
     text-transform: uppercase;
+    list-style: none;
 }
 
 p {
