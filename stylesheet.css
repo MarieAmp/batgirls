@@ -4,6 +4,7 @@ html, body {
 
 h1 {
 color: darkviolet;
+text-align: center;
 }
 
 
@@ -27,7 +28,6 @@ li {
 }
 
 p {
-    width: 30%;
     text-align: justify;
 }
 .presentation{
